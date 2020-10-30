@@ -23,7 +23,7 @@ if [ "$isHigh" = 1 ];then
 fi
 
 if [ $num -gt 2 ];then
-	echo "zhuzhijun123" | sudo -S killall coreaudiod
+	echo "password" | sudo -S killall coreaudiod
 	echo 'killall coreaudiod'
 	num=0
 fi
